@@ -8,7 +8,7 @@ A simple 2-player Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Player
 - First to make a line (row, column, or diagonal) wins.
 
 ## Files
-- `index.html` – Structure
+- `index.html` – Structure  
 - `style.css` – Styling
 - `app.js` – Game logic
   
